@@ -6,22 +6,22 @@ from units.squad import Squad
 from units.army import Army
 
 
-def data_armies():
-    with open('data/armies.json') as f:
-        d = json.load(f)
+def data_armies(clock):
+    with open('data/armies.json') as json_file:
+        json_data = json.load(json_file)
     armies = []
-    for army in range(len(d['armies'])):
+    for army in range(len(json_data['armies'])):
         units = []
         squads = []
-        for squad in range(len(d['armies'][army]['squads'])):
-            for i in d['armies'][army]['squads'][squad]['units']:
-                if i['unit_type'] == 'soldier':
-                    units.append(Soldier(i['health'], i['name']))
-                elif i['unit_type'] == 'vehicle':
-                    units.append(Vehicles(i['health'], i['name'], [
-                        Soldier(j['health'], j['name'])
-                        for j in i['operators']
-                    ]))
-        squads.append(Squad(d['armies'][army]['squads'][army]['name'], units))
-        armies.append(Army(d['armies'][army]['name'], squads))
+        for squad in range(len(json_data['armies'][army]['squads'])):
+            for unit in json_data['armies'][army]['squads'][squad]['units']:
+                if unit['unit_type'] == 'soldier':
+                    units.append(Soldier(unit['health'], unit['name'], clock))
+                elif unit['unit_type'] == 'vehicle':
+                    units.append(Vehicles(unit['health'], unit['name'], [
+                        Soldier(operator['health'], operator['name'], clock)
+                        for operator in unit['operators']
+                    ], clock))
+            squads.append(Squad(json_data['armies'][army]['squads'][squad]['name'], units))
+        armies.append(Army(json_data['armies'][army]['name'], squads, json_data['armies'][army]['strategy']))
     return armies

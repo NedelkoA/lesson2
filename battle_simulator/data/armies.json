@@ -1,1 +1,960 @@
-{"armies": [{"name": "USA", "squads": [{"name": "USA squad #1", "units": [{"health": 50, "name": "USA squad #1, vehicle #1", "operators": [{"health": 50, "name": "USA squad #1, vehicle #1, soldier #1", "unit_type": "soldier"}], "unit_type": "vehicle"}, {"health": 50, "name": "USA squad #1, vehicle #2", "operators": [{"health": 50, "name": "USA squad #1, vehicle #2, soldier #1", "unit_type": "soldier"}], "unit_type": "vehicle"}, {"health": 50, "name": "USA squad #1, vehicle #3", "operators": [{"health": 50, "name": "USA squad #1, vehicle #3, soldier #1", "unit_type": "soldier"}, {"health": 50, "name": "USA squad #1, vehicle #3, soldier #2", "unit_type": "soldier"}], "unit_type": "vehicle"}, {"health": 50, "name": "USA squad #1, soldier #1", "unit_type": "soldier"}, {"health": 50, "name": "USA squad #1, soldier #2", "unit_type": "soldier"}, {"health": 50, "name": "USA squad #1, soldier #3", "unit_type": "soldier"}, {"health": 50, "name": "USA squad #1, soldier #4", "unit_type": "soldier"}, {"health": 50, "name": "USA squad #1, soldier #5", "unit_type": "soldier"}, {"health": 50, "name": "USA squad #1, soldier #6", "unit_type": "soldier"}, {"health": 50, "name": "USA squad #1, soldier #7", "unit_type": "soldier"}, {"health": 50, "name": "USA squad #1, soldier #8", "unit_type": "soldier"}, {"health": 50, "name": "USA squad #1, soldier #9", "unit_type": "soldier"}, {"health": 50, "name": "USA squad #1, soldier #10", "unit_type": "soldier"}]}, {"name": "USA squad #2", "units": [{"health": 50, "name": "USA squad #2, vehicle #1", "operators": [{"health": 50, "name": "USA squad #2, vehicle #1, soldier #1", "unit_type": "soldier"}], "unit_type": "vehicle"}, {"health": 50, "name": "USA squad #2, vehicle #2", "operators": [{"health": 50, "name": "USA squad #2, vehicle #2, soldier #1", "unit_type": "soldier"}, {"health": 50, "name": "USA squad #2, vehicle #2, soldier #2", "unit_type": "soldier"}], "unit_type": "vehicle"}, {"health": 50, "name": "USA squad #2, vehicle #3", "operators": [{"health": 50, "name": "USA squad #2, vehicle #3, soldier #1", "unit_type": "soldier"}], "unit_type": "vehicle"}, {"health": 50, "name": "USA squad #2, soldier #1", "unit_type": "soldier"}, {"health": 50, "name": "USA squad #2, soldier #2", "unit_type": "soldier"}, {"health": 50, "name": "USA squad #2, soldier #3", "unit_type": "soldier"}, {"health": 50, "name": "USA squad #2, soldier #4", "unit_type": "soldier"}, {"health": 50, "name": "USA squad #2, soldier #5", "unit_type": "soldier"}, {"health": 50, "name": "USA squad #2, soldier #6", "unit_type": "soldier"}, {"health": 50, "name": "USA squad #2, soldier #7", "unit_type": "soldier"}, {"health": 50, "name": "USA squad #2, soldier #8", "unit_type": "soldier"}, {"health": 50, "name": "USA squad #2, soldier #9", "unit_type": "soldier"}, {"health": 50, "name": "USA squad #2, soldier #10", "unit_type": "soldier"}]}]}, {"name": "China", "squads": [{"name": "China squad #1", "units": [{"health": 50, "name": "China squad #1, vehicle #1", "operators": [{"health": 50, "name": "China squad #1, vehicle #1, soldier #1", "unit_type": "soldier"}, {"health": 50, "name": "China squad #1, vehicle #1, soldier #2", "unit_type": "soldier"}, {"health": 50, "name": "China squad #1, vehicle #1, soldier #3", "unit_type": "soldier"}], "unit_type": "vehicle"}, {"health": 50, "name": "China squad #1, vehicle #2", "operators": [{"health": 50, "name": "China squad #1, vehicle #2, soldier #1", "unit_type": "soldier"}, {"health": 50, "name": "China squad #1, vehicle #2, soldier #2", "unit_type": "soldier"}], "unit_type": "vehicle"}, {"health": 50, "name": "China squad #1, vehicle #3", "operators": [{"health": 50, "name": "China squad #1, vehicle #3, soldier #1", "unit_type": "soldier"}, {"health": 50, "name": "China squad #1, vehicle #3, soldier #2", "unit_type": "soldier"}], "unit_type": "vehicle"}, {"health": 50, "name": "China squad #1, soldier #1", "unit_type": "soldier"}, {"health": 50, "name": "China squad #1, soldier #2", "unit_type": "soldier"}, {"health": 50, "name": "China squad #1, soldier #3", "unit_type": "soldier"}, {"health": 50, "name": "China squad #1, soldier #4", "unit_type": "soldier"}, {"health": 50, "name": "China squad #1, soldier #5", "unit_type": "soldier"}, {"health": 50, "name": "China squad #1, soldier #6", "unit_type": "soldier"}, {"health": 50, "name": "China squad #1, soldier #7", "unit_type": "soldier"}, {"health": 50, "name": "China squad #1, soldier #8", "unit_type": "soldier"}, {"health": 50, "name": "China squad #1, soldier #9", "unit_type": "soldier"}, {"health": 50, "name": "China squad #1, soldier #10", "unit_type": "soldier"}]}, {"name": "China squad #2", "units": [{"health": 50, "name": "China squad #2, vehicle #1", "operators": [{"health": 50, "name": "China squad #2, vehicle #1, soldier #1", "unit_type": "soldier"}], "unit_type": "vehicle"}, {"health": 50, "name": "China squad #2, vehicle #2", "operators": [{"health": 50, "name": "China squad #2, vehicle #2, soldier #1", "unit_type": "soldier"}, {"health": 50, "name": "China squad #2, vehicle #2, soldier #2", "unit_type": "soldier"}, {"health": 50, "name": "China squad #2, vehicle #2, soldier #3", "unit_type": "soldier"}], "unit_type": "vehicle"}, {"health": 50, "name": "China squad #2, vehicle #3", "operators": [{"health": 50, "name": "China squad #2, vehicle #3, soldier #1", "unit_type": "soldier"}, {"health": 50, "name": "China squad #2, vehicle #3, soldier #2", "unit_type": "soldier"}, {"health": 50, "name": "China squad #2, vehicle #3, soldier #3", "unit_type": "soldier"}], "unit_type": "vehicle"}, {"health": 50, "name": "China squad #2, soldier #1", "unit_type": "soldier"}, {"health": 50, "name": "China squad #2, soldier #2", "unit_type": "soldier"}, {"health": 50, "name": "China squad #2, soldier #3", "unit_type": "soldier"}, {"health": 50, "name": "China squad #2, soldier #4", "unit_type": "soldier"}, {"health": 50, "name": "China squad #2, soldier #5", "unit_type": "soldier"}, {"health": 50, "name": "China squad #2, soldier #6", "unit_type": "soldier"}, {"health": 50, "name": "China squad #2, soldier #7", "unit_type": "soldier"}, {"health": 50, "name": "China squad #2, soldier #8", "unit_type": "soldier"}, {"health": 50, "name": "China squad #2, soldier #9", "unit_type": "soldier"}, {"health": 50, "name": "China squad #2, soldier #10", "unit_type": "soldier"}]}]}]}
+{
+  "armies": [
+    {
+      "name": "USA",
+      "squads": [
+        {
+          "name": "USA squad #1",
+          "units": [
+            {
+              "health": 300,
+              "name": "USA squad #1, vehicle #1",
+              "operators": [
+                {
+                  "health": 50,
+                  "name": "USA squad #1, vehicle #1, soldier #1",
+                  "unit_type": "soldier"
+                },
+                {
+                  "health": 50,
+                  "name": "USA squad #1, vehicle #1, soldier #2",
+                  "unit_type": "soldier"
+                },
+                {
+                  "health": 50,
+                  "name": "USA squad #1, vehicle #1, soldier #3",
+                  "unit_type": "soldier"
+                }
+              ],
+              "unit_type": "vehicle"
+            },
+            {
+              "health": 300,
+              "name": "USA squad #1, vehicle #2",
+              "operators": [
+                {
+                  "health": 50,
+                  "name": "USA squad #1, vehicle #2, soldier #1",
+                  "unit_type": "soldier"
+                }
+              ],
+              "unit_type": "vehicle"
+            },
+            {
+              "health": 50,
+              "name": "USA squad #1, soldier #1",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "USA squad #1, soldier #2",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "USA squad #1, soldier #3",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "USA squad #1, soldier #4",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "USA squad #1, soldier #5",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "USA squad #1, soldier #6",
+              "unit_type": "soldier"
+            }
+          ]
+        },
+        {
+          "name": "USA squad #2",
+          "units": [
+            {
+              "health": 300,
+              "name": "USA squad #2, vehicle #1",
+              "operators": [
+                {
+                  "health": 50,
+                  "name": "USA squad #2, vehicle #1, soldier #1",
+                  "unit_type": "soldier"
+                },
+                {
+                  "health": 50,
+                  "name": "USA squad #2, vehicle #1, soldier #2",
+                  "unit_type": "soldier"
+                },
+                {
+                  "health": 50,
+                  "name": "USA squad #2, vehicle #1, soldier #3",
+                  "unit_type": "soldier"
+                }
+              ],
+              "unit_type": "vehicle"
+            },
+            {
+              "health": 300,
+              "name": "USA squad #2, vehicle #2",
+              "operators": [
+                {
+                  "health": 50,
+                  "name": "USA squad #2, vehicle #2, soldier #1",
+                  "unit_type": "soldier"
+                },
+                {
+                  "health": 50,
+                  "name": "USA squad #2, vehicle #2, soldier #2",
+                  "unit_type": "soldier"
+                }
+              ],
+              "unit_type": "vehicle"
+            },
+            {
+              "health": 50,
+              "name": "USA squad #2, soldier #1",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "USA squad #2, soldier #2",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "USA squad #2, soldier #3",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "USA squad #2, soldier #4",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "USA squad #2, soldier #5",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "USA squad #2, soldier #6",
+              "unit_type": "soldier"
+            }
+          ]
+        },
+        {
+          "name": "USA squad #3",
+          "units": [
+            {
+              "health": 300,
+              "name": "USA squad #3, vehicle #1",
+              "operators": [
+                {
+                  "health": 50,
+                  "name": "USA squad #3, vehicle #1, soldier #1",
+                  "unit_type": "soldier"
+                },
+                {
+                  "health": 50,
+                  "name": "USA squad #3, vehicle #1, soldier #2",
+                  "unit_type": "soldier"
+                }
+              ],
+              "unit_type": "vehicle"
+            },
+            {
+              "health": 50,
+              "name": "USA squad #3, soldier #1",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "USA squad #3, soldier #2",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "USA squad #3, soldier #3",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "USA squad #3, soldier #4",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "USA squad #3, soldier #5",
+              "unit_type": "soldier"
+            }
+          ]
+        }
+      ],
+      "strategy": "weakest"
+    },
+    {
+      "name": "China",
+      "squads": [
+        {
+          "name": "China squad #1",
+          "units": [
+            {
+              "health": 300,
+              "name": "China squad #1, vehicle #1",
+              "operators": [
+                {
+                  "health": 50,
+                  "name": "China squad #1, vehicle #1, soldier #1",
+                  "unit_type": "soldier"
+                }
+              ],
+              "unit_type": "vehicle"
+            },
+            {
+              "health": 300,
+              "name": "China squad #1, vehicle #2",
+              "operators": [
+                {
+                  "health": 50,
+                  "name": "China squad #1, vehicle #2, soldier #1",
+                  "unit_type": "soldier"
+                }
+              ],
+              "unit_type": "vehicle"
+            },
+            {
+              "health": 50,
+              "name": "China squad #1, soldier #1",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "China squad #1, soldier #2",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "China squad #1, soldier #3",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "China squad #1, soldier #4",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "China squad #1, soldier #5",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "China squad #1, soldier #6",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "China squad #1, soldier #7",
+              "unit_type": "soldier"
+            }
+          ]
+        },
+        {
+          "name": "China squad #2",
+          "units": [
+            {
+              "health": 300,
+              "name": "China squad #2, vehicle #1",
+              "operators": [
+                {
+                  "health": 50,
+                  "name": "China squad #2, vehicle #1, soldier #1",
+                  "unit_type": "soldier"
+                }
+              ],
+              "unit_type": "vehicle"
+            },
+            {
+              "health": 300,
+              "name": "China squad #2, vehicle #2",
+              "operators": [
+                {
+                  "health": 50,
+                  "name": "China squad #2, vehicle #2, soldier #1",
+                  "unit_type": "soldier"
+                }
+              ],
+              "unit_type": "vehicle"
+            },
+            {
+              "health": 300,
+              "name": "China squad #2, vehicle #3",
+              "operators": [
+                {
+                  "health": 50,
+                  "name": "China squad #2, vehicle #3, soldier #1",
+                  "unit_type": "soldier"
+                }
+              ],
+              "unit_type": "vehicle"
+            },
+            {
+              "health": 50,
+              "name": "China squad #2, soldier #1",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "China squad #2, soldier #2",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "China squad #2, soldier #3",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "China squad #2, soldier #4",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "China squad #2, soldier #5",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "China squad #2, soldier #6",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "China squad #2, soldier #7",
+              "unit_type": "soldier"
+            }
+          ]
+        },
+        {
+          "name": "China squad #3",
+          "units": [
+            {
+              "health": 300,
+              "name": "China squad #3, vehicle #1",
+              "operators": [
+                {
+                  "health": 50,
+                  "name": "China squad #3, vehicle #1, soldier #1",
+                  "unit_type": "soldier"
+                },
+                {
+                  "health": 50,
+                  "name": "China squad #3, vehicle #1, soldier #2",
+                  "unit_type": "soldier"
+                },
+                {
+                  "health": 50,
+                  "name": "China squad #3, vehicle #1, soldier #3",
+                  "unit_type": "soldier"
+                }
+              ],
+              "unit_type": "vehicle"
+            },
+            {
+              "health": 300,
+              "name": "China squad #3, vehicle #2",
+              "operators": [
+                {
+                  "health": 50,
+                  "name": "China squad #3, vehicle #2, soldier #1",
+                  "unit_type": "soldier"
+                }
+              ],
+              "unit_type": "vehicle"
+            },
+            {
+              "health": 300,
+              "name": "China squad #3, vehicle #3",
+              "operators": [
+                {
+                  "health": 50,
+                  "name": "China squad #3, vehicle #3, soldier #1",
+                  "unit_type": "soldier"
+                },
+                {
+                  "health": 50,
+                  "name": "China squad #3, vehicle #3, soldier #2",
+                  "unit_type": "soldier"
+                },
+                {
+                  "health": 50,
+                  "name": "China squad #3, vehicle #3, soldier #3",
+                  "unit_type": "soldier"
+                }
+              ],
+              "unit_type": "vehicle"
+            },
+            {
+              "health": 50,
+              "name": "China squad #3, soldier #1",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "China squad #3, soldier #2",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "China squad #3, soldier #3",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "China squad #3, soldier #4",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "China squad #3, soldier #5",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "China squad #3, soldier #6",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "China squad #3, soldier #7",
+              "unit_type": "soldier"
+            }
+          ]
+        },
+        {
+          "name": "China squad #4",
+          "units": [
+            {
+              "health": 300,
+              "name": "China squad #4, vehicle #1",
+              "operators": [
+                {
+                  "health": 50,
+                  "name": "China squad #4, vehicle #1, soldier #1",
+                  "unit_type": "soldier"
+                }
+              ],
+              "unit_type": "vehicle"
+            },
+            {
+              "health": 300,
+              "name": "China squad #4, vehicle #2",
+              "operators": [
+                {
+                  "health": 50,
+                  "name": "China squad #4, vehicle #2, soldier #1",
+                  "unit_type": "soldier"
+                },
+                {
+                  "health": 50,
+                  "name": "China squad #4, vehicle #2, soldier #2",
+                  "unit_type": "soldier"
+                }
+              ],
+              "unit_type": "vehicle"
+            },
+            {
+              "health": 50,
+              "name": "China squad #4, soldier #1",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "China squad #4, soldier #2",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "China squad #4, soldier #3",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "China squad #4, soldier #4",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "China squad #4, soldier #5",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "China squad #4, soldier #6",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "China squad #4, soldier #7",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "China squad #4, soldier #8",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "China squad #4, soldier #9",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "China squad #4, soldier #10",
+              "unit_type": "soldier"
+            }
+          ]
+        }
+      ],
+      "strategy": "strongest"
+    },
+    {
+      "name": "Russia",
+      "squads": [
+        {
+          "name": "Russia squad #1",
+          "units": [
+            {
+              "health": 300,
+              "name": "Russia squad #1, vehicle #1",
+              "operators": [
+                {
+                  "health": 50,
+                  "name": "Russia squad #1, vehicle #1, soldier #1",
+                  "unit_type": "soldier"
+                },
+                {
+                  "health": 50,
+                  "name": "Russia squad #1, vehicle #1, soldier #2",
+                  "unit_type": "soldier"
+                }
+              ],
+              "unit_type": "vehicle"
+            },
+            {
+              "health": 300,
+              "name": "Russia squad #1, vehicle #2",
+              "operators": [
+                {
+                  "health": 50,
+                  "name": "Russia squad #1, vehicle #2, soldier #1",
+                  "unit_type": "soldier"
+                },
+                {
+                  "health": 50,
+                  "name": "Russia squad #1, vehicle #2, soldier #2",
+                  "unit_type": "soldier"
+                },
+                {
+                  "health": 50,
+                  "name": "Russia squad #1, vehicle #2, soldier #3",
+                  "unit_type": "soldier"
+                }
+              ],
+              "unit_type": "vehicle"
+            },
+            {
+              "health": 50,
+              "name": "Russia squad #1, soldier #1",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Russia squad #1, soldier #2",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Russia squad #1, soldier #3",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Russia squad #1, soldier #4",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Russia squad #1, soldier #5",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Russia squad #1, soldier #6",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Russia squad #1, soldier #7",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Russia squad #1, soldier #8",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Russia squad #1, soldier #9",
+              "unit_type": "soldier"
+            }
+          ]
+        },
+        {
+          "name": "Russia squad #2",
+          "units": [
+            {
+              "health": 300,
+              "name": "Russia squad #2, vehicle #1",
+              "operators": [
+                {
+                  "health": 50,
+                  "name": "Russia squad #2, vehicle #1, soldier #1",
+                  "unit_type": "soldier"
+                },
+                {
+                  "health": 50,
+                  "name": "Russia squad #2, vehicle #1, soldier #2",
+                  "unit_type": "soldier"
+                }
+              ],
+              "unit_type": "vehicle"
+            },
+            {
+              "health": 50,
+              "name": "Russia squad #2, soldier #1",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Russia squad #2, soldier #2",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Russia squad #2, soldier #3",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Russia squad #2, soldier #4",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Russia squad #2, soldier #5",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Russia squad #2, soldier #6",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Russia squad #2, soldier #7",
+              "unit_type": "soldier"
+            }
+          ]
+        }
+      ],
+      "strategy": "random"
+    },
+    {
+      "name": "Korea",
+      "squads": [
+        {
+          "name": "Korea squad #1",
+          "units": [
+            {
+              "health": 300,
+              "name": "Korea squad #1, vehicle #1",
+              "operators": [
+                {
+                  "health": 50,
+                  "name": "Korea squad #1, vehicle #1, soldier #1",
+                  "unit_type": "soldier"
+                },
+                {
+                  "health": 50,
+                  "name": "Korea squad #1, vehicle #1, soldier #2",
+                  "unit_type": "soldier"
+                }
+              ],
+              "unit_type": "vehicle"
+            },
+            {
+              "health": 300,
+              "name": "Korea squad #1, vehicle #2",
+              "operators": [
+                {
+                  "health": 50,
+                  "name": "Korea squad #1, vehicle #2, soldier #1",
+                  "unit_type": "soldier"
+                }
+              ],
+              "unit_type": "vehicle"
+            },
+            {
+              "health": 300,
+              "name": "Korea squad #1, vehicle #3",
+              "operators": [
+                {
+                  "health": 50,
+                  "name": "Korea squad #1, vehicle #3, soldier #1",
+                  "unit_type": "soldier"
+                },
+                {
+                  "health": 50,
+                  "name": "Korea squad #1, vehicle #3, soldier #2",
+                  "unit_type": "soldier"
+                },
+                {
+                  "health": 50,
+                  "name": "Korea squad #1, vehicle #3, soldier #3",
+                  "unit_type": "soldier"
+                }
+              ],
+              "unit_type": "vehicle"
+            },
+            {
+              "health": 50,
+              "name": "Korea squad #1, soldier #1",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Korea squad #1, soldier #2",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Korea squad #1, soldier #3",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Korea squad #1, soldier #4",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Korea squad #1, soldier #5",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Korea squad #1, soldier #6",
+              "unit_type": "soldier"
+            }
+          ]
+        },
+        {
+          "name": "Korea squad #2",
+          "units": [
+            {
+              "health": 300,
+              "name": "Korea squad #2, vehicle #1",
+              "operators": [
+                {
+                  "health": 50,
+                  "name": "Korea squad #2, vehicle #1, soldier #1",
+                  "unit_type": "soldier"
+                },
+                {
+                  "health": 50,
+                  "name": "Korea squad #2, vehicle #1, soldier #2",
+                  "unit_type": "soldier"
+                }
+              ],
+              "unit_type": "vehicle"
+            },
+            {
+              "health": 50,
+              "name": "Korea squad #2, soldier #1",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Korea squad #2, soldier #2",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Korea squad #2, soldier #3",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Korea squad #2, soldier #4",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Korea squad #2, soldier #5",
+              "unit_type": "soldier"
+            }
+          ]
+        },
+        {
+          "name": "Korea squad #3",
+          "units": [
+            {
+              "health": 300,
+              "name": "Korea squad #3, vehicle #1",
+              "operators": [
+                {
+                  "health": 50,
+                  "name": "Korea squad #3, vehicle #1, soldier #1",
+                  "unit_type": "soldier"
+                },
+                {
+                  "health": 50,
+                  "name": "Korea squad #3, vehicle #1, soldier #2",
+                  "unit_type": "soldier"
+                }
+              ],
+              "unit_type": "vehicle"
+            },
+            {
+              "health": 300,
+              "name": "Korea squad #3, vehicle #2",
+              "operators": [
+                {
+                  "health": 50,
+                  "name": "Korea squad #3, vehicle #2, soldier #1",
+                  "unit_type": "soldier"
+                },
+                {
+                  "health": 50,
+                  "name": "Korea squad #3, vehicle #2, soldier #2",
+                  "unit_type": "soldier"
+                }
+              ],
+              "unit_type": "vehicle"
+            },
+            {
+              "health": 300,
+              "name": "Korea squad #3, vehicle #3",
+              "operators": [
+                {
+                  "health": 50,
+                  "name": "Korea squad #3, vehicle #3, soldier #1",
+                  "unit_type": "soldier"
+                },
+                {
+                  "health": 50,
+                  "name": "Korea squad #3, vehicle #3, soldier #2",
+                  "unit_type": "soldier"
+                }
+              ],
+              "unit_type": "vehicle"
+            },
+            {
+              "health": 50,
+              "name": "Korea squad #3, soldier #1",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Korea squad #3, soldier #2",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Korea squad #3, soldier #3",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Korea squad #3, soldier #4",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Korea squad #3, soldier #5",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Korea squad #3, soldier #6",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Korea squad #3, soldier #7",
+              "unit_type": "soldier"
+            }
+          ]
+        },
+        {
+          "name": "Korea squad #4",
+          "units": [
+            {
+              "health": 300,
+              "name": "Korea squad #4, vehicle #1",
+              "operators": [
+                {
+                  "health": 50,
+                  "name": "Korea squad #4, vehicle #1, soldier #1",
+                  "unit_type": "soldier"
+                },
+                {
+                  "health": 50,
+                  "name": "Korea squad #4, vehicle #1, soldier #2",
+                  "unit_type": "soldier"
+                }
+              ],
+              "unit_type": "vehicle"
+            },
+            {
+              "health": 50,
+              "name": "Korea squad #4, soldier #1",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Korea squad #4, soldier #2",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Korea squad #4, soldier #3",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Korea squad #4, soldier #4",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Korea squad #4, soldier #5",
+              "unit_type": "soldier"
+            },
+            {
+              "health": 50,
+              "name": "Korea squad #4, soldier #6",
+              "unit_type": "soldier"
+            }
+          ]
+        }
+      ],
+      "strategy": "weakest"
+    }
+  ]
+}

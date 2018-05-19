@@ -3,7 +3,7 @@ from abc import ABCMeta, abstractmethod
 
 class Unit(metaclass=ABCMeta):
     @abstractmethod
-    def attack(self, target):
+    def attack(self, target, clock):
         pass
 
     @abstractmethod
@@ -23,9 +23,4 @@ class Unit(metaclass=ABCMeta):
     @property
     @abstractmethod
     def attack_power(self):
-        pass
-
-    @property
-    @abstractmethod
-    def recharge(self):
         pass
