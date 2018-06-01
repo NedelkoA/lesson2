@@ -1,0 +1,17 @@
+body { margin: 0; padding: 0; }
+header{ width: 75%; padding: 1%; border-bottom: 1px solid silver; margin-left: 10%}
+header a { text-decoration: none; font-size: 1.3em; color: black }
+header a:hover { text-decoration: underline }
+.btn_add { margin-top: 2%; margin-left: 10%; width: 10%}
+.btn_add a{ border: 1px solid black; padding: 5px; border-radius: 5px; color: black; text-decoration:none}
+.btn_add a:hover { background-color: black; color: white; transition: ease 0.5s }
+.ads { margin-top: 2%; margin-left: 10%; width: 75%}
+.ads .ad {  width: 30%; margin-top: 1%; padding: 2%; text-align: center}
+.ads .ad a { color: black; text-decoration:none}
+.ads .ad a:hover { text-decoration: underline}
+form { margin-left: 10%}
+h2 { margin-left: 10%}
+.board { margin-left: 10% }
+.comments { width: 30%; margin-left: 10%; border: 2px solid silver; border-radius: 5px}
+.comments .comment { border-bottom: 1px solid silver; width: 90%; margin-left: 5%}
+.comment_add { margin-bottom: 2%; margin-left: 30%}

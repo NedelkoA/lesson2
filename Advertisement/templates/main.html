@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+{% block title %}Free Ads{% endblock %}
+{% block body %}
+<div class="btn_add">
+  <a href="/new_ad">Create new ad</a>
+</div>
+
+<div class="ads">
+  {% for ad in ads%}
+  <div class="ad">
+    <a href="/ad_{{ ad[0] }}">{{ ad[1] }}</a>
+  </div>
+{% endfor %}
+</div>
+{% endblock %}

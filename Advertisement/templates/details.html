@@ -1,0 +1,24 @@
+{% extends "layout.html" %}
+{% block title %}Free Ads{% endblock %}
+{% block body %}
+ <div class="board">
+     <p>Creator of board: {{ args.creator }}
+     <p>Name board: {{ args.board_name }}
+     <p>Date: {{ args.date }}
+ </div>
+ <div class="btn_add comment_add">
+    <a href="/comment_{{ args.ad_id }}">Add comment</a>
+ </div>
+ <div class="comments">
+     {% if comments%}
+        {% for comment in comments%}
+            <div class="comment">
+                <p>User: {{ comment[1] }}</p>
+                <p>Comment: {{ comment[0] }}</p>
+            </div>
+        {% endfor %}
+     {% else %}
+        <p>No comments</p>
+     {% endif %}
+ </div>
+{% endblock %}
